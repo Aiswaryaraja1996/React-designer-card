@@ -1,0 +1,31 @@
+.price{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 5px 0;
+}
+
+.oldNew{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.oldNew h2{
+    margin-left: 5px;
+    color: red;
+    text-decoration : line-through;
+}
+
+.oldNew h1{
+    color: green;
+}
+
+.price button{
+    padding : 20px 10px 20px 10px;
+    border-style: none;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(46,204,113);
+    letter-spacing:5px;
+    border-radius:5px;
+}

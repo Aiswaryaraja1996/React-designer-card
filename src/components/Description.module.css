@@ -1,0 +1,9 @@
+.extra{
+    margin: 20px 0 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.description p{
+    color:rgb(120,130,148);
+}

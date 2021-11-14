@@ -1,0 +1,14 @@
+.cardItem{
+    display: flex;
+    flex-direction: column;
+    width : 26%;
+    padding: 10px;
+    border-radius:5px;
+}
+
+.cardItem img{
+    border-radius: 10px 10px 0px 0px;
+    height:240px;
+    width:100%;
+
+}
